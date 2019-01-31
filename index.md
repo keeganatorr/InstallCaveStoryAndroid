@@ -1,15 +1,13 @@
 ## Step 1
 
-Install RetroArch for Android
-https://play.google.com/store/apps/details?id=com.retroarch&hl=en_AU
+Install RetroArch for Android: [Download](https://play.google.com/store/apps/details?id=com.retroarch&hl=en_AU)
 
 ## Step 2
 Download `CaveStory.zip` from here: [CaveStory.zip](./CaveStory.zip)
 
 ## Step 3
 
-Install FX File Browser
-https://play.google.com/store/apps/details?id=nextapp.fx&hl=en_AU
+Install FX File Browser: [Download](https://play.google.com/store/apps/details?id=nextapp.fx&hl=en_AU)
 
 ## Step 4
 Open FX and find the downloaded `CaveStory.zip` in your downloads folder.
